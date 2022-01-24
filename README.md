@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gcmnali
-- 👀 I’m interested in Mobeile Development, Game Development
+- 👀 I’m interested in Mobile Development, Game Development
 - 🌱 I’m currently learning Unity, Game Physics
 - 💞️ I’m looking to collaborate on Xamarin, Mvvmcross, Unity
 - 📫 gcmn4li@gmail.com
